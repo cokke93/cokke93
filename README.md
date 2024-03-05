@@ -1,6 +1,6 @@
 # Bienvenido a mi repositorio personal
 
-¡Hola a todos! Soy Jorge,  estudiante de primer año de Grado Superior de Desarrollo de Aplicaciones Multiplataforma en el IES Abastos. Este repositorio es un espacio donde comparto mis proyectos y trabajos relacionados con el curso, donde espero ir reflejando mis conocimientos.
+¡Hola a todos! Soy Jorge,  estudiante de primer año de Grado Superior de Desarrollo de Aplicaciones Multiplataforma en el IES Abastos. En  este repositorio comparto mis proyectos y trabajos relacionados con el curso en los cuales ire reflejando mis conocimientos.
 
 ## Tecnologías en desarrollo
 
