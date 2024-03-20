@@ -15,6 +15,7 @@
 Mi objetivo principal es mejorar mis habilidades de programación y desarrollo hasta conseguir dedicarme profesionalmente a ello.
 
 
-## Proyectos en curso
+## Proyectos
 
 - [GlucoApp](https://github.com/cokke93/AppGlucosa.git) Mi primer proyecto, en el cual iré plasmando mis conocimientos adquiridos en el grado.
+- [Calculadora](https://github.com/cokke93/Calculadora)  que permite realizar operaciones aritméticas sencillas y cambiar aleatoriamente el color de la carcasa.
