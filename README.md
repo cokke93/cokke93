@@ -4,7 +4,7 @@
 
 ## Technologies I'm learning
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,git,linux,mysql,java,vscode&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,github,git,linux,mysql,vscode&perline=9)](https://skillicons.dev)
 
 ## Objectives
 
