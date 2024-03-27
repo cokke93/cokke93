@@ -4,11 +4,7 @@
 
 ## Technologies I'm learning
 
-- Java
-- HTML
-- CSS
-- JavaScript
-- SQL
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,git,linux,mysql,java,vscode&perline=9)](https://skillicons.dev)
 
 ## Objectives
 
