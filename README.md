@@ -16,8 +16,3 @@
 - [GlucoApp](https://github.com/cokke93/AppGlucosa.git) Application that takes care of the control and registration of glucose in diabetic patients.
 - [Calculator](https://github.com/cokke93/Calculadora) Calculator that allows to perform simple arithmetic operations and randomly change the color of the case. | [Deploy](https://cokke93.github.io/Calculadora/)
 
-## The Odin Project -In progress
- 
-Projects carried out during the course of The Odin Project <br>
-https://www.theodinproject.com <br>
-- [Recipes Page](https://github.com/cokke93/odin-recipes) Web page containing various culinary recipes using html and css. | [Deploy](https://cokke93.github.io/odin-recipes/)
